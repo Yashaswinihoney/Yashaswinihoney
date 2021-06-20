@@ -57,7 +57,7 @@ Hi folks :wave:
 
 ## Visitor's count
 
-<p align="centre">![Visitor Count](https://profile-counter.glitch.me/{Yashaswinihoney}/count.svg)</p>
+![Visitor Count](https://profile-counter.glitch.me/{Yashaswinihoney}/count.svg)
 
 
 
