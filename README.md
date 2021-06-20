@@ -52,6 +52,8 @@ Hi folks :wave:
 ## Connect with me
 
 [<img align ="left" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg"/>](https://www.linkedin.com/in/yashaswini-sharma-2b91281b5/)
+[<img align ="center" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg"/>](mailto:yashaswinisharma2001@gmail.com)
+
 [<img align ="left" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"/>](https://www.instagram.com/yashaswini2001/)
 [<img align ="left" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg"/>](https://www.facebook.com/yashaswinisSh)
 <br>
