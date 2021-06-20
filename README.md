@@ -132,7 +132,6 @@ Hi folks :wave:
 [<img align ="left" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg"/>](https://www.linkedin.com/in/yashaswini-sharma-2b91281b5/)
 [<img align ="left" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"/>](https://www.instagram.com/yashaswini2001/)
 [<img align ="left" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg"/>](https://www.facebook.com/yashaswinisSh)
-<!--[<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg">](https://twitter.com/lasnabunan)-->
 <br>
 <br>
 ## Visitor's count
