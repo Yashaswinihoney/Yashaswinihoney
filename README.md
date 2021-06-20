@@ -21,6 +21,7 @@ Hi folks :wave:
 ## My Activity
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Yashaswinihoney&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<br>
 
 ## Statistics
 
@@ -37,90 +38,13 @@ Hi folks :wave:
     </a>
   </div>  
 </p>
+<br>
 
 ## 💻 Things I know
 
 > <i>Tools, languages, and other things that I like to work with.</i>
 <br>
 <p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-<!--
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Icon%20Packs/tensorflow-ar21.svg" width="40"/>
-      </a>
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Icon%20Packs/google-cloud.png" width="40"/>
-      </a>
-      <br>Google Cloud
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Icon%20Packs/github-seeklogo.com.svg" width="40"/>
-      </a>
-      <br>Github
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Icon%20Packs/colab_favicon_256px.png" width="40"/>
-      </a>
-      <br>GoogleColab
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Icon%20Packs/atom.svg" width="40"/>
-      </a>
-      <br>Atom
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/>
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/css.svg" width="40"/>
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/js.svg" width="40"/>
-      </a>
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/bootstrap.svg" width="40"/>
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/unity.svg" width="40"/>
-      </a>
-      <br>Unity
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/py.svg" width="40"/>
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/ps.svg" width="40"/>
-      </a>
-      <br>Photoshop
-    </td> 
-  </tr>
-</table>
--->
 <br>
 
 ## Connect with me
@@ -130,9 +54,10 @@ Hi folks :wave:
 [<img align ="left" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg"/>](https://www.facebook.com/yashaswinisSh)
 <br>
 <br>
+
 ## Visitor's count
 
-![Visitor Count](https://profile-counter.glitch.me/{Yashaswinihoney}/count.svg)
+<p align="centre">![Visitor Count](https://profile-counter.glitch.me/{Yashaswinihoney}/count.svg)</p>
 
 
 
