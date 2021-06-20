@@ -11,6 +11,7 @@
 # About Me
 Hi folks :wave: 
 
+- 👩🏻‍🎓 I'm a junior at National Institute of Technology, Hamirpur, pursuing my Bachelors in Electronics and Communication Engineering.
 - 🔭 I interned at Varidus, in the Spring of 2021, as the lead web developer.
 - 🌱 I’m currently learning ReactJS and Competitive Programming.
 - 👯 I’m looking to collaborate on Web Development and Data Science.
