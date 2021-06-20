@@ -3,11 +3,6 @@
   <img src="https://github.com/Yashaswinihoney/Yashaswinihoney/blob/master/intro.gif" width="550px" />
 </p>
 
-<!--
-<p align="center">
-    <img src="https://github.com/lasnabunan/Hritik_Bansal/blob/main/Hritik%20Bansal(2).png" width="550px" alt="Hritik Bansal" />
-</p>
--->
 <p align="center">I'm a Full stack web developer.<br/>I specialize in MERN stack and Competitive Programming.<br><br></p><br/>
 
 <p align = "center"><a href="https://www.buymeacoffee.com/rahulmahesh62"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
@@ -21,6 +16,7 @@ Hi folks :wave:
 - 👯 I’m looking to collaborate on Web Development and Data Science.
 - 😄 Pronouns: She/her
 - 💬 Ask me about Backend Development, Competititve Programming and OpenCV, any tech-related stuff.
+<br>
 
 ## My Activity
 
