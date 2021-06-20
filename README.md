@@ -1,6 +1,6 @@
 <h1><p align="center">Hello, I'm Yashaswini Sharma! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 <p align="center">
-  <img src="https://github.com/Yashaswinihoney/Yashaswinihoney/intro.gif" width="550px" />
+  <img src="https://github.com/Yashaswinihoney/Yashaswinihoney/blob/master/intro.gif" width="550px" />
 </p>
 
 <!--
