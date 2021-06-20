@@ -5,7 +5,7 @@
 
 <p align="center">I'm a Full stack web developer.<br/>I specialize in MERN stack and Competitive Programming.<br><br></p><br/>
 
-<p align = "center"><a href="https://www.buymeacoffee.com/rahulmahesh62"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
+<!--<p align = "center"><a href="https://www.buymeacoffee.com/rahulmahesh62"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>-->
 
 
 # About Me
