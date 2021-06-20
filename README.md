@@ -28,7 +28,7 @@ Hi folks :wave:
 
 ## Statistics
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.mp4" width="360px"/>
+<img align="right" alt="GIF" src="https://tenor.com/view/typing-jim-carrey-fast-busy-gif-4903969" width="360px"/>
 <!--<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/pOEbLRT4SwD35IELiQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tech-technology-mograph-pOEbLRT4SwD35IELiQ"></a></p>-->
 
 <p align=center>
