@@ -1,6 +1,6 @@
 <h1><p align="center">Hello, I'm Yashaswini Sharma! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 <p align="center">
-  <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Intro_Hritik.gif" width="550px" />
+  <img src="https://github.com/Yashaswinihoney/Yashaswinihoney/intro.gif" width="550px" />
 </p>
 
 <!--
@@ -16,9 +16,9 @@
 # About Me
 Hi folks :wave: 
 
-- 🔭 I'm interned at Varidus, in the Spring of 2021, as the lead web developer.
+- 🔭 I interned at Varidus, in the Spring of 2021, as the lead web developer.
 - 🌱 I’m currently learning ReactJS and Competetive Programming.
-- 👯 I’m looking to collaborate on Web Development and Data Sciene.
+- 👯 I’m looking to collaborate on Web Development and Data Science.
 - 😄 Pronouns: She/her
 - 💬 Ask me about Backend Development, Competititve Programming and OpenCV, any tech-related stuff.
 
