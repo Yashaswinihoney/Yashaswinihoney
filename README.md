@@ -20,7 +20,7 @@ Hi folks :wave:
 
 ## My Activity
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&custom_title=Activity%20Graph&hide_border=false&bg_color=0B1F65&color=DCC5C3&line=38BFF0&point=00EAD9)](https://github.com/Yashaswinihoney/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&custom_title=Activity%20Graph&hide_border=false&bg_color=0B1F65&color=38BFF0&line=38BFF0&point=00EAD9)](https://github.com/Yashaswinihoney/github-readme-activity-graph)
 
 <!--<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Yashaswinihoney&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>-->
 <br>
