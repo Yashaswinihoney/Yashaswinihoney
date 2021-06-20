@@ -12,7 +12,7 @@
 Hi folks :wave: 
 
 - 🔭 I interned at Varidus, in the Spring of 2021, as the lead web developer.
-- 🌱 I’m currently learning ReactJS and Competetive Programming.
+- 🌱 I’m currently learning ReactJS and Competitive Programming.
 - 👯 I’m looking to collaborate on Web Development and Data Science.
 - 😄 Pronouns: She/her
 - 💬 Ask me about Backend Development, Competititve Programming and OpenCV, any tech-related stuff.
