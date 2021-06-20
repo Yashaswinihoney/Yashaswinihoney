@@ -28,7 +28,7 @@ Hi folks :wave:
 
 ## Statistics
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw2ib-te3yAsDDX_nGqktoaf&ust=1624318460980000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJiqo_2vp_ECFQAAAAAdAAAAABAD" width="360px"/>
 
 <p align=center>
   <div align=center>
