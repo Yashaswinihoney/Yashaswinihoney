@@ -37,11 +37,23 @@ Hi folks :wave:
       <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Yashaswinihoney&theme=react&border=61dafb" alt="zumrudu-anka" />
     </a>
       <br><br>
-    <a href="https://github.com/Yashaswinihoney/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=Yashaswinihoney&show_icons=true&theme=react&border_color=61dafb"/>
     </a>
   </div>  
 </p>
+<!--
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Yashaswinihoney&theme=react&border=61dafb" alt="zumrudu-anka" />
+    </a>
+      <br><br>
+    <a href="https://github.com/Yashaswinihoney/github-readme-stats" title="Go to Source">
+      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=Yashaswinihoney&show_icons=true&theme=react&border_color=61dafb"/>
+    </a>
+  </div>  
+</p>-->
 <br>
 
 ## 💻 Things I know
